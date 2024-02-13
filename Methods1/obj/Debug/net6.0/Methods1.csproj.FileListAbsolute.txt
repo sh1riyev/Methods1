@@ -1,0 +1,15 @@
+/Users/sh1riyev/Projects/Methods1/Methods1/bin/Debug/net6.0/Methods1
+/Users/sh1riyev/Projects/Methods1/Methods1/bin/Debug/net6.0/Methods1.deps.json
+/Users/sh1riyev/Projects/Methods1/Methods1/bin/Debug/net6.0/Methods1.runtimeconfig.json
+/Users/sh1riyev/Projects/Methods1/Methods1/bin/Debug/net6.0/Methods1.dll
+/Users/sh1riyev/Projects/Methods1/Methods1/bin/Debug/net6.0/Methods1.pdb
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.csproj.AssemblyReference.cache
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.AssemblyInfoInputs.cache
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.AssemblyInfo.cs
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.csproj.CoreCompileInputs.cache
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.dll
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/refint/Methods1.dll
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.pdb
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/Methods1.genruntimeconfig.cache
+/Users/sh1riyev/Projects/Methods1/Methods1/obj/Debug/net6.0/ref/Methods1.dll
